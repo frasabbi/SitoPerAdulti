@@ -1,0 +1,40 @@
+span
+{   
+     color: rgb(179, 204, 39);
+}
+.p1
+{
+    position: fixed;
+    left: 200px;
+    top: 50px;
+}
+.p2
+{
+    position:fixed;
+    left: 200px;
+    top: 131px;
+}
+p{
+    position:static;
+}
+html{
+    background-color:rgb(136, 135, 135); 
+    background-image: url("Logo.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+p,span{
+    font-family:courier;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+input{
+    border-width: 5px;
+}
+.danger{
+    border-color: red;
+}
+.true{
+    border-color: green;
+}
